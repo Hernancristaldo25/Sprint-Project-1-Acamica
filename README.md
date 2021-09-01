@@ -4,7 +4,7 @@
 Api Delilah Resto Acamica:
 #Paso 1- Instalación
 Clonar proyecto desde la consola:
-git clone https://github.com/Hernancristaldo25/Sprint-Project.git
+git clone https://github.com/Hernancristaldo25/Sprint-Project-1-Acamica
 #Paso 2- Instalación de dependencias:
 En la consola: npm install
 #Paso 3- Iniciar el servidor
